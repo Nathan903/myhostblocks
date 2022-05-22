@@ -30,6 +30,24 @@ dns.weixin.qq.com
 ||*marketingcloudapis.com^$important
 ||*dynatrace.com^$important
 
+||nat.emule.org.cn.lan^$important
+||nat.emule.org.cn^$important
+||m.news.baidu.com^$important
+||m.hao123.com^$important
+||hectorstatic.baidu.com^$important
+||sm.bdimg.com^$important
+||ss*.baidu.com^$important
+||hpd.baidu.com^$important
+||feed.baidu.com^$important
+||ufosdk.baidu.com^$important'
+||wappass.baidu.com^$important
+||mbd.baidu.com^$important
+||hector.baidu.com^$important
+||www.beian.gov.cn^$important
+||ext.baidu.com^$important
+||gimg*.baidu.com^$important
+||news.163.com^$important
+||tianshu.gtimg.cn^$important
 
 ##########################################################################################################################################
 
