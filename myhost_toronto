@@ -30,6 +30,13 @@ dns.weixin.qq.com
 ||*marketingcloudapis.com^$important
 ||*dynatrace.com^$important
 
+||feed.baidu.com^$important
+||vdposter.bdstatic.com^$important
+||*vdposter.bdstatic.com^$important
+||*.recommend_list.baidu.com^$important
+||novel-recommend.wps.com^$important
+
+
 ||nat.emule.org.cn.lan^$important
 ||nat.emule.org.cn^$important
 ||m.news.baidu.com^$important
