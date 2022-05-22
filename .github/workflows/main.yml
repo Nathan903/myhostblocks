@@ -2,6 +2,8 @@ name: CI
 
 # Controls when the workflow will run
 on:
+  schedule:
+    - cron: "0 12 * * *"
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
@@ -27,3 +29,4 @@ jobs:
           git config --global user.email 'bot@users.noreply.github.com'
           git commit -am "Auto generate anti-ad-easylist-cleaned.txt"
           git push
+          
