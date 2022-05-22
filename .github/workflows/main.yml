@@ -25,5 +25,5 @@ jobs:
           git add anti-ad-easylist-cleaned.txt
           git config --global user.name 'GitHub action bot'
           git config --global user.email 'bot@users.noreply.github.com'
-          git commit -am "Autorun download_and_clean_antiAD.py"
+          git commit -am "Auto generate anti-ad-easylist-cleaned.txt"
           git push
