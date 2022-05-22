@@ -83,7 +83,9 @@ dns.weixin.qq.com
 ||Wormax.io^$client='192.168.2.127'
 ||*firefoxchina*$client='192.168.2.127'
 @@||pingjs.qq.com^$client='192.168.2.127'
-
+||recommend.360doc.com^$client='192.168.2.127'
+||push.services.mozilla.com^$client='192.168.2.127'
+||tiles.services.mozilla.com^$client='192.168.2.127'
 
 # routers
 ||smarthome-drcn.dbankcdn.com^$client='192.168.2.178'
