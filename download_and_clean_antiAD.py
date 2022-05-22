@@ -1,9 +1,11 @@
 import urllib.request
+from datetime import datetime
+
 src = r"https://anti-ad.net/easylist.txt"
 bannedinitials=r"@@"
 
-
-result="!cleaned by nathan\n\n"
+now = datetime.now() 
+result="!cleaned by nathan. Generated on "+now.strftime("%m/%d/%Y, %H:%M:%S")+"\n"
 with urllib.request.urlopen(src) as data:
     for line in data:
         line=line.decode("utf-8")
