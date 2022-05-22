@@ -14,6 +14,18 @@
 #test 20220521
 dns.weixin.qq.com
 
+#unsure 20220522
+@@||acs.m.taobao.com^$client='192.168.2.113'
+@@||fourier.taobao.com^$client='192.168.2.113'
+@@||h-adashx.ut.taobao.com^$client='192.168.2.113'
+@@||amdc.m.taobao.com^$client='192.168.2.113'
+@@||abtest.alibaba.com^$client='192.168.2.113'
+@@||audid-api.taobao.com^$client='192.168.2.113'
+||zhanzhang.toutiao.com.w.cdngslb.com^$client='192.168.2.113'
+@@||adashx.m.taobao.com^$client='192.168.2.113'
+#@@||bdimg.share.baidu.com
+#@@||dlswbr.baidu.com
+
 
 ##########################################################################################################################################
 
@@ -59,6 +71,7 @@ dns.weixin.qq.com
 ##########################################################################################################################################
 
 #my computer
+@@||update.pan.baidu.com^$client='192.168.2.127'
 ||detectportal.firefox.com^$client='192.168.2.127'
 ||*bilibili*^$client='192.168.2.136'
 ||hury.io^$client='192.168.2.136'
@@ -99,6 +112,8 @@ dns.weixin.qq.com
 ||*bilibili*$client='192.168.2.107'
 ||*bilivideo*$client='192.168.2.107'
 ||*hdslb*$client='192.168.2.107'
+||tracker.ai.xiaomi.com^$client='k30'
+@@||*$client='k30'
 
 
 #my phone
@@ -238,6 +253,9 @@ dns.weixin.qq.com
 ||duokoo.baidu.com^$client='kindlefirehdx'
 ||cn.app.chat.xiaomi.net^$client='kindlefirehdx'
 ||titan.pinduoduo.com^$client='kindlefirehdx'
+@@||acs.m.taobao.com^$client='ipad'
+@@||amdc.m.taobao.com^$client='ipad'
+@@||zconfig.alibabausercontent.com^$client='ipad'
 
 
 #小爱同学音箱
@@ -252,7 +270,8 @@ dns.weixin.qq.com
 
 # 电视
 ||remote.yuancheng.xunlei.com^$client='MiTV'
-
+@@||mixer.cupid.ptqy.gitv.tv^$client='MiTV'
+@@||msg.ptqy.gitv.tv^$client='MiTV'
 
 ##########################################################################################################################################
 #原文链接：https://blog.csdn.net/moshowgame/article/details/79907926
