@@ -1,10 +1,10 @@
-!cleaned by nathan. Generated on 07/29/2022, 12:45:48
+!cleaned by nathan. Generated on 07/30/2022, 12:35:14
 !Title: anti-AD
-!Version: 20220729024637
+!Version: 20220730151809
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 52109
+!Total lines: 52110
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 /^(\S+\.)?advert/$denyallow=alibabacorp.com|alibabadns.com|sm.cn|tanx.com|alibaba-inc.com|tmall.com|taobao.com
@@ -24253,7 +24253,8 @@
 ||jiliw.com^
 ||2mg.jim86d.cn^
 ||2mg898.jim86d.cn^
-||jimdo.com^
+||s.jimdo.com^
+||u.jimdo.com^
 ||jimeilm.com^
 ||jimopuwa.com^
 ||jinair.sc.jinair.com^
