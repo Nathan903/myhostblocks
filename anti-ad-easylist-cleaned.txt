@@ -1,10 +1,10 @@
-!cleaned by nathan. Generated on 08/18/2022, 12:47:27
+!cleaned by nathan. Generated on 08/19/2022, 12:41:32
 !Title: anti-AD
-!Version: 20220817024649
+!Version: 20220819104546
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 51957
+!Total lines: 51958
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 /^(\S+\.)?advert/$denyallow=alibabacorp.com|alibabadns.com|sm.cn|tanx.com|alibaba-inc.com|tmall.com|taobao.com
@@ -857,6 +857,7 @@
 ||2329.ink^
 ||233wo.com^
 ||assets.2343sdxs.com^
+||2345.cc^
 ||2345.cn^
 ||2345.com^
 ||23456dj.com^
@@ -3591,7 +3592,6 @@
 ||adnxs1.com^
 ||adnyg.com^
 ||adnz.co^
-||adobe-campaign.com^
 ||cimage.adobe.com^
 ||data.email-discovery.cjm.adobe.com^
 ||data.email-disney.cjm.adobe.com^
@@ -28928,7 +28928,6 @@
 ||bmodjx.mgos.jp^
 ||mgtcw.top^
 ||apperr.log.mgtv.com^
-||as.mgtv.com^
 ||audit.aaa.mgtv.com^
 ||cmop.mgtv.com^
 ||imgaliyun.da.mgtv.com^
@@ -49850,6 +49849,7 @@
 ||yepteaswont.com^
 ||yeribi.com^
 ||yes-messenger.com^
+||yes115.com^
 ||yesadsrv.com^
 ||xls.yeschool.info^
 ||milk.yesky.com.cn^
