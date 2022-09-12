@@ -1,6 +1,6 @@
-!cleaned by nathan. Generated on 09/11/2022, 12:41:11
+!cleaned by nathan. Generated on 09/12/2022, 12:51:12
 !Title: anti-AD
-!Version: 20220911024626
+!Version: 20220912192117
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
@@ -14309,7 +14309,6 @@
 ||dazibenwm.com^
 ||commercial.daznservices.com^
 ||aa.db-finanzberatung.de^
-||db-ip.com^
 ||mit.db.com^
 ||mit.researchlog.db.com^
 ||wtk.db.com^
