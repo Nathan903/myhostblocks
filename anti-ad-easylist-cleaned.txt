@@ -1,10 +1,10 @@
-!cleaned by nathan. Generated on 10/05/2022, 12:55:17
+!cleaned by nathan. Generated on 10/06/2022, 12:53:29
 !Title: anti-AD
-!Version: 20221002200551
+!Version: 20221006133542
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
-!Total lines: 56464
+!Total lines: 56463
 /^(\S+\.)?9377[a-z0-9]{2}\.com$/$dnstype=A
 /^(\S+\.)?ad(s?[\d]+|m|s)?\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com|alibabadns.com
 /^(\S+\.)?advert/$denyallow=alibabacorp.com|alibabadns.com|sm.cn|tanx.com|alibaba-inc.com|tmall.com|taobao.com
@@ -52639,7 +52639,6 @@
 ||apppush-sh5.xiaohongshu.com^
 ||flash.xiaohongshu.com^
 ||referee.xiaohongshu.com^
-||edith.xiaohongshu.com^
 ||vi.xiaohongshu.com^
 ||v.xiaohongshu.com^
 ||ci.xiaohongshu.com^
