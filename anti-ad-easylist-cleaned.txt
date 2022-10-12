@@ -1,4 +1,4 @@
-!cleaned by nathan. Generated on 10/11/2022, 12:54:46
+!cleaned by nathan. Generated on 10/12/2022, 12:51:57
 !Title: anti-AD
 !Version: 20221011030857
 !Homepage: https://github.com/privacy-protection-tools/anti-AD
